@@ -1,7 +1,5 @@
 # bmiapp
-
-A new Flutter project.
-
+Clculate body mass index for giving data
 ## Getting Started
 
 This project is a starting point for a Flutter application.
